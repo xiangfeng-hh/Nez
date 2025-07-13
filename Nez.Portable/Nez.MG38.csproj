@@ -1,5 +1,6 @@
 ﻿<Project>	
 	<PropertyGroup>
+  <LangVersion>12.0</LangVersion>
 		<BaseIntermediateOutputPath>obj\Nez.MG38</BaseIntermediateOutputPath>
 	</PropertyGroup>
 	<Import Sdk="Microsoft.NET.Sdk" Project="Sdk.props" />
